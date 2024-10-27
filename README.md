@@ -1,1 +1,3 @@
 # Mechanics-of-Deformable-Bodies
+In this project we have made an app which can determine different yield criteria based on given principal stresses. This app takes poisson's ratio, yield strength and principal stresses as an input and provides us with max stress yield criteria, min stress yield criteria, strain energy density criteria, max shear stress criteria and von mises criteria.
+This standalone app provides visual representation of von mises diagram, yield comparisons and mohr's circle. It also explains various definitions related to stress, strain and yield criterias. This helps user to properly understand various parameters and make most use of the application.
